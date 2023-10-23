@@ -1,0 +1,29 @@
+{
+  "name": "react-conditional-render",
+  "version": "1.0.0",
+  "description": "React and React-Native conditional render component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/batgerelt/react-native-conditional-render.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "render",
+    "conditional"
+  ],
+  "author": "B.Batgerelt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/batgerelt/react-native-conditional-render/issues"
+  },
+  "homepage": "https://github.com/batgerelt/react-native-conditional-render#readme",
+  "peerDependencies": {
+    "react": "18.2.0",
+    "react-native": "0.72.6"
+  }
+}
