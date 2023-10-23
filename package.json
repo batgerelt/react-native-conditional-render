@@ -1,5 +1,5 @@
 {
-  "name": "react-conditional-render",
+  "name": "react-native-conditional-render",
   "version": "1.0.0",
   "description": "React and React-Native conditional render component",
   "main": "index.js",
