@@ -2,6 +2,16 @@
 
 A React component that conditionally renders content based on boolean conditions.
 
+```bash
+npm install react-native-conditional-render
+```
+or
+```bash
+yarn add react-native-conditional-render
+```
+
+
+
 ## Props
 
 - `condition` (boolean, default: `false`): A boolean value determining whether to render content.

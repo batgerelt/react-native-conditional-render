@@ -1,6 +1,6 @@
 {
   "name": "react-native-conditional-render",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React and React-Native conditional render component",
   "main": "index.js",
   "scripts": {
