@@ -1,4 +1,4 @@
-\# ConditionalRender Component
+# ConditionalRender Component
 
 [![npm version](https://badge.fury.io/js/react-native-conditional-render.svg)](http://badge.fury.io/js/react-native-conditional-render)
 [![npm total downloads](https://img.shields.io/npm/dt/react-native-conditional-render.svg)](https://img.shields.io/npm/dt/react-native-conditional-render.svg)
