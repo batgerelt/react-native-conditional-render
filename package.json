@@ -2,9 +2,10 @@
   "name": "react-native-conditional-render",
   "version": "1.0.1",
   "description": "React and React-Native conditional render component",
-  "main": "index.js",
+  "main": "index.tsx",
+  "react-native": "index.tsx",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -21,9 +22,36 @@
   "bugs": {
     "url": "https://github.com/batgerelt/react-native-conditional-render/issues"
   },
+  "contributors": [
+    {
+      "name": "B.Batgerelt",
+      "email": "batgereltb@gmail.com",
+      "url": "https://github.com/batgerelt"
+    }
+  ],
+  "lint-staged": {
+    "*.ts": [
+      "yarn lint",
+      "git add"
+    ]
+  },
   "homepage": "https://github.com/batgerelt/react-native-conditional-render#readme",
+  "devDependencies": {
+    "@babel/preset-react": "^7.22.15",
+    "@types/jest": "^29.5.6",
+    "@types/react": "^18.0.24",
+    "@types/react-test-renderer": "^18.0.0",
+    "jest": "^29.2.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-native": "^0.72.6",
+    "react-test-renderer": "^18.2.0",
+    "ts-jest": "^29.1.1"
+  },
   "peerDependencies": {
-    "react": "18.2.0",
-    "react-native": "0.72.6"
+    "react-native": "*"
+  },
+  "eslintConfig": {
+    "extends": "@react-native-community"
   }
 }
