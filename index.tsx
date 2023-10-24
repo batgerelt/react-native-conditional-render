@@ -1,6 +1,6 @@
 import React, { Fragment, ReactElement } from "react";
 
-export interface Props {
+interface Props {
   condition?: boolean | false;
   truth?: any;
   untruth?: any;

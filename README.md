@@ -1,11 +1,20 @@
 \# ConditionalRender Component
 
+[![npm version](https://badge.fury.io/js/react-native-conditional-render.svg)](http://badge.fury.io/js/react-native-conditional-render)
+[![npm total downloads](https://img.shields.io/npm/dt/react-native-conditional-render.svg)](https://img.shields.io/npm/dt/react-native-conditional-render.svg)
+[![npm monthly downloads](https://img.shields.io/npm/dm/react-native-conditional-render.svg)](https://img.shields.io/npm/dm/react-native-conditional-render.svg)
+[![npm weekly downloads](https://img.shields.io/npm/dw/react-native-conditional-render.svg)](https://img.shields.io/npm/dw/react-native-conditional-render.svg)
+
 A React component that conditionally renders content based on boolean conditions.
+
+## Installation
+
+Using npm:
 
 ```bash
 npm install react-native-conditional-render
 ```
-or
+or using yarn:
 ```bash
 yarn add react-native-conditional-render
 ```
